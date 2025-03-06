@@ -1,4 +1,4 @@
-# 🧠 GPT4All Project with Flask and Docker 💡
+# 🧠 GPT4All Mark One 💡
 
 Para a versão em português deste README, clique [aqui](README.md).
 
