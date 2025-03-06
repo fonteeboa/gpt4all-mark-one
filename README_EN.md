@@ -72,31 +72,6 @@ curl -X POST http://localhost:5000/chat \
 
 This project uses [GPT4All](https://www.nomic.ai/gpt4all), an open-source AI model framework that enables local interactions without relying on external APIs. For more details, check out the [official documentation](https://docs.gpt4all.io).
 
-## 🛠️ Local Development and Setup (Optional)
-
-If you want to run the project without Docker, follow these steps:
-
-1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/your-repo/gpt4all-flask.git
-    cd gpt4all-flask
-    ```
-
-2. Install dependencies:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Run the server:
-
-    ```sh
-    python script.py
-    ```
-
-The server will run on port 5000 by default.
-
 ## 🤖 Practical Chatbot Test Running on the Server
 
 📝 Note: The chat interface below was developed in React to provide a more intuitive and user-friendly UI/UX experience, focusing on usability for end users. (In the future, the component will be available in the [FB-Library](https://github.com/fonteeboa/react-fb-library))
